@@ -1,0 +1,10 @@
+{
+    "name": "Service Name",
+    "env": "development",
+    "port": 5000,
+    "baseUrl": "http://localhost:5000",
+    "debug": false,
+    "allowedOrigins": [
+        "http://localhost:3000"
+    ]
+}
